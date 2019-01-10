@@ -12,7 +12,7 @@ dependencies:
   version: 2.3.88
 - name: login
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.85
+  version: 0.0.86
 - name: profile
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.21
