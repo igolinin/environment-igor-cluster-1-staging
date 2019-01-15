@@ -13,6 +13,9 @@ dependencies:
 - name: login
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.89
+- name: login-front
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.3
 - name: profile
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.26
